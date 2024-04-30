@@ -1,7 +1,8 @@
 {
     "autoload": {
         "psr-4": {
-            "config\\database\\" : "config/database"
+            "config\\" : "config/",
+            "model\\" : "model/"
         }
     }
 }
